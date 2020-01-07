@@ -1,0 +1,15 @@
+.example-container{
+    /* background-color: aquamarine; */
+    overflow: false;
+    position: unset;
+}
+.sidebar {
+    background-color: rgb(221, 80, 80);
+}
+.content {
+    padding: 10px;
+    background-color: rgb(241, 221, 221);
+    text-align:center;
+    
+
+}

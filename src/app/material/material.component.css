@@ -1,0 +1,14 @@
+.card{
+    display:flex;
+    flex-direction:column;
+    padding: 20%;
+    text-align: center;
+    
+}
+mat-card-content{
+    background-color: rgb(226, 112, 46);
+}
+.card>*{
+    width:100;
+    background-color: rgb(34, 87, 87);
+}
